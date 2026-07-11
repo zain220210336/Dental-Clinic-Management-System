@@ -77,3 +77,41 @@ Computer Engineering Graduate
 
 GitHub Profile:
 https://github.com/zain220210336
+
+
+---
+
+## 📸 Application Screenshots
+
+<table>
+<tr>
+<td align="center">
+<b>Main Window</b><br>
+<img src="images/main.png" width="400">
+</td>
+
+<td align="center">
+<b>Dental Module</b><br>
+<img src="images/dental.png" width="400">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>X-Ray Module</b><br>
+<img src="images/xray.png" width="400">
+</td>
+
+<td align="center">
+<b>Implant Module</b><br>
+<img src="images/implant.png" width="400">
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<b>Press Module</b><br>
+<img src="images/Press.png" width="400">
+</td>
+</tr>
+</table>
